@@ -6,3 +6,6 @@ extras/
 .rosinstall
 *.bag
 *.db
+jdk-*
+OpenJDK*
+*.vscode
